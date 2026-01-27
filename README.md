@@ -10,17 +10,34 @@
 <b>🔭 Currently Focus:</b> Solving algorithmic challenges and implementing core Data Structures in C++.<br><br>
 <b>👯 Collaboration:</b> Open to beginner-friendly C++ projects and competitive programming study groups.<br><br>
 <b>🌱 Learning Path:</b> Deep-diving into DSA and advanced C++ concepts to write efficient code.<br><br>
-<b>⚡ Fun Fact:</b> "I spent 3 hours debugging code only to realize I missed a single semicolon (;)—we've all been there!"
+<b>⚡ Fun Fact:</b> "I spent 3 hours debugging code only to realize I missed a single semicolon (;)—we've all been there!" 
+<br>
 
+# 🌐 My Socials:
+<p align="left">
+  <a href="https://discord.gg/AXuFxTGz">
+    <img src="https://media.tenor.com/R7RjzLvtwm4AAAAM/discord-logo-neon-discord.gif" width="50" height="50" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/share/1BD9HfoaUo/">
+  <img src="https://media2.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="50" height="45" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/rm_mahi">
+    <img src="https://media1.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" width="45" height="42" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/minhajmojumder">
+    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="60" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/RdxMinhaj">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
+  </a>
+  
+  <a href="mailto:minhajmojumder735@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+</p>
+<br>
 
-## 🌐 My Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AXuFxTGz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BD9HfoaUo/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rm_mahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minhajmojumder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RdxMinhaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhajmojumder735@gmail.com) 
-
-# 💻 Tech Stack:
-
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40px">  Languages and Tools:
+# <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40px">  Languages and Tools:
 
 
 | Web Development | Languages | Logic & DSA |
