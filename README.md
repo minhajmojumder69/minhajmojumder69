@@ -1,7 +1,14 @@
 <h1 align="center">Hi there.👋 I'm Md Minhaj Mojumder.</h1>
 
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
+
+<br><br><br><br><br>
 # <img src="https://media4.giphy.com/media/pg4I5hCDzYPD3gRWOt/giphy.gif" width="70px"> About Me:
-🔭 Currently Focus: Solving algorithmic challenges and implementing core Data Structures in C++.<br><br>👯 Collaboration: Open to beginner-friendly C++ projects and competitive programming study groups.<br><br>🤝 Help Wanted: Mastering Memory Management and complex structures like Trees and Graphs.<br><br>🌱 Learning Path: Deep-diving into DSA and advanced C++ concepts to write efficient code.<br><br>💬 Ask Me: C/C++ syntax, pointers, or the logic behind common sorting algorithms.<br><br>⚡ Fun Fact: I once debugged for 3 hours just to find a missing semicolon (;).
+
+<b>🔭 Currently Focus:</b> Solving algorithmic challenges and implementing core Data Structures in C++.<br><br>
+<b>👯 Collaboration:</b> Open to beginner-friendly C++ projects and competitive programming study groups.<br><br>
+<b>🌱 Learning Path:</b> Deep-diving into DSA and advanced C++ concepts to write efficient code.<br><br>
+<b>⚡ Fun Fact:</b> "I spent 3 hours debugging code only to realize I missed a single semicolon (;)—we've all been there!"
 
 
 ## 🌐 My Socials:
@@ -9,16 +16,17 @@
 
 # 💻 Tech Stack:
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"> Languages and Tools:
+## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40px">  Languages and Tools:
+
 
 | Web Development | Languages | Logic & DSA |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=html,css" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> | <img src="https://skillicons.dev/icons?i=py,js" /> |
 
----
+
+
 
 <br><br>
 # 📊 GitHub Stats:
