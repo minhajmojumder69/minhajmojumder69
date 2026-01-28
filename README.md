@@ -15,13 +15,13 @@
 
 # 🌐 My Socials:
 <p align="left">
-  <a href="https://discord.gg/AXuFxTGz">
+  <a href="https://discord.gg/tnnQqqtdak">
     <img src="https://media.tenor.com/R7RjzLvtwm4AAAAM/discord-logo-neon-discord.gif" width="50" height="50" alt="Discord" />
   </a>
   <a href="https://www.facebook.com/share/1BD9HfoaUo/">
   <img src="https://media2.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="50" height="45" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/rm_mahi">
+  <a href="https://instagram.com/rm_ma_hi">
     <img src="https://media1.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" width="45" height="42" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/minhajmojumder">
@@ -37,7 +37,7 @@
 </p>
 <br>
 
-# <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40px">  Languages and Tools:
+# <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60px">  Languages and Tools:
 
 
 | Web Development | Languages | Logic & DSA |
