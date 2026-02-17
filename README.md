@@ -24,7 +24,7 @@
   <a href="https://instagram.com/rm_ma_hi">
     <img src="https://media1.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" width="45" height="42" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/minhajmojumder">
+  <a href="https://linkedin.com/in/md-minhaj-mojumder-6556463aa">
     <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="60" alt="LinkedIn" />
   </a>
   <a href="https://x.com/RdxMinhaj">
