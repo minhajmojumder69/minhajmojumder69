@@ -42,7 +42,7 @@
 
 | Web Development | Languages | Logic & DSA |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> | <img src="https://skillicons.dev/icons?i=py,js" /> |
+| <img src="https://skillicons.dev/icons?i=html,css" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> |  |
 
 
 
