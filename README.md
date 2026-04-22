@@ -16,23 +16,22 @@
 # 🌐 My Socials:
 <p align="left">
   <a href="https://discord.gg/tnnQqqtdak">
-    <img src="https://media.tenor.com/R7RjzLvtwm4AAAAM/discord-logo-neon-discord.gif" width="50" height="50" alt="Discord" />
+    <img src="https://media.tenor.com/R7RjzLvtwm4AAAAM/discord-logo-neon-discord.gif" height="40" alt="Discord" />
   </a>
   <a href="https://www.facebook.com/share/1BD9HfoaUo/">
   <img src="https://media2.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="50" height="45" alt="Facebook" />
   </a>
   <a href="https://instagram.com/rm_ma_hi">
-    <img src="https://media1.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" width="45" height="42" alt="Instagram" />
+    <img src="https://media1.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" height="40" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/md-minhaj-mojumder-6556463aa">
-    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="60" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/md-minhaj-mojumder-655463aa">
+    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50" alt="LinkedIn" />
   </a>
   <a href="https://x.com/RdxMinhaj">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" />
   </a>
-  
-  <a href="mailto:minhajmojumder735@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  <a href="https://mailto:minhajmojumder735@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
 </p>
 <br>
