@@ -4,7 +4,7 @@
 
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 # <img src="https://media4.giphy.com/media/pg4I5hCDzYPD3gRWOt/giphy.gif" width="70px"> About Me:
 
 <b>🔭 Currently Focus:</b> Solving algorithmic challenges and implementing core Data Structures in C++.<br><br>
