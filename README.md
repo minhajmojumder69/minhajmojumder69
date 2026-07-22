@@ -63,10 +63,19 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=minhajmojumder69&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ✦ Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhajmojumder69&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
