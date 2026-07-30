@@ -48,10 +48,21 @@
 
 <br><br>
 # 📊 GitHub Stats:
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhajmojumder69&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF" alt="GitHub Streak" width="48%" />
-<br/>
-</div>
+<p align="center">
+  <!-- Top Languages Card (Using Shion.dev Mirror) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=minhajmojumder69&bg_color=000000&title_color=FFFF00&text_color=FFFFFF&border_color=FFFFFF&hide_title=false" height="195" alt="Top Languages" />
+  
+  <!-- GitHub Stats Card (Using Shion.dev Mirror) -->
+  <img src="https://github-readme-stats.shion.dev/api?username=minhajmojumder69&bg_color=000000&title_color=FFFF00&text_color=FFFFFF&border_color=FFFFFF&show_icons=false" height="195" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhajmojumder69&background=000000&stroke=FFFFFF&title=FFFF00&labels=FFFFFF&dates=FFFFFF&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" height="195" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minhajmojumder69&color=blue&style=flat" alt="Profile views" />
+</p>
 
 ---
 
